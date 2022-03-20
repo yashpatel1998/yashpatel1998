@@ -1,16 +1,22 @@
-### Hi there 👋
+### Howdy, fellow developer ! 🤠
 
-<!--
-**yashpatel1998/yashpatel1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A bit about me 🧔🏽 :- Constant learner, explorer and practitionist intrinsically motivated
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I am currently working as a Salesforce Developer at Accenture
+- 🌱 I am currently learning
+    - JavaScript
+    - Machine Learning
+- 🧠 I want to learn 
+    - Quantum Computing
+    - Kuberneties 
+    - .... and a lot of things
+- ✈️ I want to make world a better place using Machine Learning and Quantum Computing.
+- 🧩 Things I like apart from code 
+    - Philosophy Books
+    - Learning to Play 🎸
+    - Watching ⚽
+    - Cooking 🍕
+
+
+[More about my work and me](https://yashpatel1998.github.io/)
