@@ -1,6 +1,6 @@
 ### Howdy, fellow developer ! 🤠
 
-A bit about me 🧔🏽 :- Constant learner, explorer and practitionist intrinsically motivated
+A bit about me 🧔🏽 :- Intrinsically motivated learner, explorer and practitionist. 
 
 
 - 🔭 I am currently working as a Salesforce Developer at Accenture
