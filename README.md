@@ -3,7 +3,7 @@
 A bit about me 🧔🏽 :- Intrinsically motivated learner, explorer and practitionist. 
 
 
-- 🔭 I am currently working as a Salesforce Developer at Accenture
+- 🔭 I am currently working as a Salesforce Developer at Carl Zeiss AG
 - 🌱 I am currently learning
     - JavaScript
     - Machine Learning
